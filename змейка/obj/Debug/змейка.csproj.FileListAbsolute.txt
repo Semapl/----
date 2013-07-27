@@ -1,0 +1,12 @@
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\bin\Debug\змейка.exe.config
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\bin\Debug\змейка.exe
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\bin\Debug\змейка.pdb
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.csprojResolveAssemblyReference.cache
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.Основа.resources
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.Properties.Resources.resources
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.csproj.GenerateResource.Cache
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.exe
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.pdb
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.Основная_форма_игры.resources
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.Вывод_списка_ботов.resources
+C:\Users\psi\Documents\Visual Studio 2012\Projects\змейка\змейка\obj\Debug\змейка.Форма_окончания_игры.resources
